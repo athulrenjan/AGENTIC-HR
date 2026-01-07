@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-dotenv
+groq
+pydantic==1.10.13
+pypdf
+python-docx
+pdfplumber
+reportlab
+sentence-transformers
+google-api-python-client
+google-auth
+numpy
+pdfminer.six
+tenacity
