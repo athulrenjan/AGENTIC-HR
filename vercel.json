@@ -1,0 +1,4 @@
+{
+  "buildCommand": "pip install -r requirements.txt --no-cache-dir && python -m pip install --upgrade pip",
+  "installCommand": "pip install -r requirements.txt --no-cache-dir"
+}
